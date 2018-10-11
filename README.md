@@ -112,5 +112,8 @@ You may need to cycle a few times until everything looks good. Once you're happy
 #### Submit!
 
   1. Easy! After editing `index.html` and `css/style.css` and adding `firstname-lastname.html`, just submit a Pull Request back to us. We'll take a look ASAP and get your change merged and deployed.
+  
+  ## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-learn-deploy-on-day-one/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-learn-deploy-on-day-one/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
 
 <p data-visibility='hidden'>PHRG Your first deployment</p>
